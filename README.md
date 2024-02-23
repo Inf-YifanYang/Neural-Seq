@@ -29,3 +29,8 @@ To successfully run the code and reproduce the results, the following packages a
 * allensdk 2
 * matplotlib
 * seaborn
+
+## Usage
+1. Download the neural recording data. Please refer to the instruction and scripts for accessing the data from the [Visual Coding project websites](https://allensdk.readthedocs.io/en/latest/visual_coding_neuropixels.html).
+2. Download the mouse connectivity data. Please refer to the instruction and scripts for accessing the data from the [Mouse Connectivity websites](https://allensdk.readthedocs.io/en/latest/connectivity.html).
+3. The additional code will be coming soon.
